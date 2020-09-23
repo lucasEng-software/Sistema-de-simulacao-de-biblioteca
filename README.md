@@ -7,5 +7,5 @@ no trabalho foi utilizado:
 * Lista encadeada
 * Lista duplamente encadeada
 * Heap 
-Não era necessário uma interface.
-mais detalhes no pdf anexado.
+- Não era necessário uma interface.
+- mais detalhes no pdf anexado.
