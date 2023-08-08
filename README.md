@@ -1,6 +1,6 @@
-# Trabalho-de-Estrutura-de-Dados-em-JAVA-
-Trabalho feito utilizando java como ferramenta para solucionar um problema da disciplina de estrutura de dados.
-no trabalho foi utilizado:
+# Projeto de estrutura de dados em JAVA para a simulação de uma biblioteca
+
+## No projeto foi utilizado:
 * linguagem java
 * conceitos de Orientação a objetos
 * Hash Map
@@ -8,5 +8,4 @@ no trabalho foi utilizado:
 * Lista duplamente encadeada
 * Heap 
 ______________________________________
-- Não era necessário uma interface.
-- mais detalhes no pdf anexado.
+
