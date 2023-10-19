@@ -12,7 +12,7 @@ ______________________________________
 # Sistema de Biblioteca da UFC - README
 
 Este é um projeto que simula um sistema para a biblioteca do campus da UFC (Universidade Federal do Ceará) conseguir alocar livros para alunos de outros campus. O sistema passa por três fases para realizar a encomenda de livros.
-
+Este projeto é feito usando apenas JAVA puro sem frameworks, springboot etc.. apenas para exercicio da linguagem e estruturas de dados.
 ## Fase 1: Encomenda de Livro - Criação do Processo
 
 Nesta fase, o aluno procura a biblioteca do seu campus para criar um processo de encomenda de livro. O aluno é atendido por um estagiário, que fica encarregado de criar a documentação inicial do processo de encomenda e colocá-lo em uma lista de processos que serão avaliados por secretários da biblioteca.
